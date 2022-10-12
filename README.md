@@ -9,7 +9,7 @@ CircleImageView
 
 A fast circular ImageView perfect for profile images. This is based on [RoundedImageView from Vince Mi](https://github.com/vinc3m1/RoundedImageView) which itself is based on [techniques recommended by Romain Guy](http://www.curious-creature.org/2012/12/11/android-recipe-1-image-with-rounded-corners/).
 
-![CircleImageView](https://raw.github.com/snevatechnologies/GolaImageViewmaster/photo_6213068565221846988_y.jpg)
+![CircleImageView](https://github.com/snevatechnologies/GolaImageView/blob/d1bb8b173067efe711848934daff25bb11f6eb31/photo_6213068565221846988_y.jpg)
 
 It uses a BitmapShader and **does not**:
 * create a copy of the original bitmap
