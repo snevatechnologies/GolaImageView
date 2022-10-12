@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Developer - Harsh Kumar Singh -->
+    <!-- UI - Harsh Kumar Singh -->
+    <!-- Programmer - Harsh Kumar Singh -->
+    <!-- Company - Sneva Technologies Pvt Ltd -->
+    <!-- GolaLibrary developed by harsh -->
+    <!-- Company Date - 2019 - 2022 -->
+    <declare-styleable name="GolaImageView">
+        <attr name="gola_border_width" format="dimension" />
+        <attr name="gola_border_color" format="color" />
+        <attr name="gola_border_overlay" format="boolean" />
+        <attr name="gola_circle_background_color" format="color" />
+    </declare-styleable>
+</resources>
